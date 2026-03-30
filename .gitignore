@@ -4,6 +4,7 @@
 .LSOverride
 Icon?
 ._*
+__MACOSX/
 Thumbs.db
 Desktop.ini
 $RECYCLE.BIN/
